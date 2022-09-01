@@ -159,6 +159,7 @@ img {
   text-align: center;
 }
 
+
 /*==================== LAYOUT ====================*/
 
 .container {
@@ -924,13 +925,13 @@ img {
 /* ==================== Contact Me ==================== */
 
 .contact__container {
-  row-gap: 1rem;
+  row-gap: 5rem;
 }
 
 .contact__information {
   display: inline-flex;
-  margin-bottom: var(--mb-3);
   padding-inline: 1rem;
+  margin-bottom: 9rem;
 }
 
 .contact__icon {
